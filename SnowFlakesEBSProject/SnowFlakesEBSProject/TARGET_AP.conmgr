@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="TARGET_AP"
+  DTS:DTSID="{0589F0E7-3F6F-4ED2-A93A-8230674879B2}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=KRTAGON;Dsn=AP;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAART5M9LLWH0q9Di5Zd4VMFwAAAAACAAAAAAAQZgAAAAEAACAAAABH86qG9ch+wbE/jxdmQmv3UJmcFZuu3JJqMogG1JHRrQAAAAAOgAAAAAIAACAAAADfOVieDtJui6yDGlYaN+V9thYX8YFQOWD2m7AlWTenfnAAAABQY+63/pLkWKmflD8tqViABXa41SlNLgZendde13G9cFvjRLg5DBp8kSeMHNHRdNbRC3h4c3wEB2R5+toh3FdIc5ccZcVVJTaUN5H3B4YwKG2o2zv/BpXOIQ4EJLyj0kHsvnj92qPtmNNM0/Insh3VQAAAAOqINOKpQwQdh9/ZYXRkrqqzzFXzlWeglUlEELeUafbDCF8EaOKNK2oefn4Jky3bA2EYWqDHDKiE2BzKUfZfNPg=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
