@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="SNOWFLAKES_SOURCE.KTAGON"
+  DTS:DTSID="{B5970630-5A97-4C0D-B0CA-ED0998F83BB2}"
+  DTS:CreationName="ODBC">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="uid=KTAGON;Dsn=SNOWFLAKES_SOURCE;">
+      <DTS:Password
+        DTS:Name="pwd"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAART5M9LLWH0q9Di5Zd4VMFwAAAAACAAAAAAAQZgAAAAEAACAAAABpLjSbZQXVS0Ev/iskLCaCwOPLxQlqXbsMnTrR3UK5xgAAAAAOgAAAAAIAACAAAABngNiW1Q3kB5/v8bLnqeHbcbDVL+/ayNEXbTi6frPkdXAAAAB057sApVUHxLeco9Hie1S74K8NwAbtjHMDwTf5K9i5pAJnohvPeviv9YZAPyLXTiasJ/tolquvF/BDxmVR6JbogBk18yaCGeyfhfZNJa69X9Lx2yGpEep+DUMASHY6eeJLQYgBU5AvJWetmAFHoXW+QAAAAESkOg+rC6sx8T2MaXhm+2b2flfUJj8Seku+SlxHvS1JDZRoYC1odP8dhOWrGLmEK/qg+s18DrSfzfqQO7zaP5E=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
